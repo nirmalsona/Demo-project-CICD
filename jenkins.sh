@@ -1,5 +1,5 @@
 ls
 pwd
 whoami
-sudo docker exec -it nginx /bin/bash
+sudo docker exec -i nginx bash -c   /bin/bash
 nginx
