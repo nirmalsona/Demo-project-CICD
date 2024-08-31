@@ -3,4 +3,4 @@ ls
 pwd
 whoami
 touch nirmal
-rm nirmal
+touch nirmal1
