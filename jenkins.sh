@@ -1,6 +1,4 @@
-
-ls
-pwd
-whoami
-touch nirmal
+rm nirmal
+touch textfile
+touch textfile1
 
